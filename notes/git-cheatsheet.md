@@ -1,6 +1,4 @@
 ```markdown
-# Git Cheatsheet
-
 ## Создание репозитория
 
 ```bash
