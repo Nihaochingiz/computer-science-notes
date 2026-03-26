@@ -4,4 +4,4 @@
 
 ##  Сайт
 
-[ТЫК](https://nihaochingiz.github.io/computer-science-notes/)
+[Тык](https://nihaochingiz.github.io/computer-science-notes/)
