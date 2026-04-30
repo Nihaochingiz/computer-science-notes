@@ -1,13 +1,20 @@
 **uv** — это новая, очень быстрая и современная замена классическим `pip` и `venv`. Она написана на Rust и проще в использовании .
 
-
+# Быстрый старт
 ```bash
+# Установить uv
 curl -LsSf https://astral.sh/uv/install.sh | sh
+# создать виртуальное окружение
 uv venv
+# активировать виртуальное окружение
 source .venv/bin/activate
+# установить пакет, фреймворк
 uv pip install <имя_пакета>
-uv pip install -r requirements.txt
+# сохранение зависимостей в файл
 uv pip freeze > requirements.txt
+# установить из файла requirements.txt
+uv pip install -r requirements.txt
+
 
 ### Шаг 1: Установка uv
 
